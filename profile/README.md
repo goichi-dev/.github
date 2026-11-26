@@ -40,8 +40,8 @@ func main() {
 ## Performance
 
 On the latest [goichi-bench](https://github.com/goichi-dev/goichi-bench) run,
-Goichi v0.5.0 came third of six frameworks. It is 31–62% faster than gin, echo
-and chi, and up to 17% slower than fiber. The benchmark explains how it
+Goichi v0.6.0 came third of six frameworks. It is 35–66% faster than gin, echo
+and chi, and up to 15% slower than fiber. The benchmark explains how it
 measures, how much of the result is noise, and how to reproduce it.
 
 Everything here is MIT licensed. Goichi is at `v0.x`, so its API may still
